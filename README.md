@@ -3,5 +3,5 @@
 simple book review app
 
 dependencies:
-zero-md
-bootstrap v5
+- zero-md
+- bootstrap v5
