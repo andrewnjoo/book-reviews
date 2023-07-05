@@ -4,7 +4,7 @@ Rating: ★★★★★ (4/5)
 
 Review Date: July 5, 2023
 
-In this blog post I will review the audiobook version of The Beach by Alex Garland, which is available on Youtube. This could be a great alternative or companion to the novel. For example, auditory learners might benefit.
+In this blog post I will review the audiobook version of The Beach by Alex Garland, which is available on [Youtube](https://www.youtube.com/watch?v=jqa29QgA0Ls&ab_channel=axleyuch). This could be a great alternative or companion to the novel. For example, auditory learners might benefit.
 
 ---
 
