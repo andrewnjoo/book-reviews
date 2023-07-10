@@ -13,7 +13,7 @@ There are some funny and absurd things happening like
 1. Alice keeps eating things to become smaller or larger
 1. Alice also seems to just trust that the shrinking/growing bottles are e.g. not poisonous
 
-AAIW also has some interesting potential themes going on like being a roman a clef: some scholars like Morton N. Cohen argue that Alice is based on Alice Lidell, an acquaitance of Lewis Caroll.
+AAIW also has some interesting potential themes going on like being a roman a clef: some scholars like Morton N. Cohen argue that Alice is based on Alice Lidell, an acquaintance of Lewis Caroll.
 
 Overall, I really liked reading this book and will probably re-read it later. It’s also got great images (woodcuts) by John Tenniel. The second book about Alice is called Through the Looking Glass.
 
