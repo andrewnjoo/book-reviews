@@ -4,4 +4,3 @@ simple book review app
 
 languages:
 - html
-- css
