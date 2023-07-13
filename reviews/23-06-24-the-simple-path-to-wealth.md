@@ -1,6 +1,6 @@
 Review: "Simple Path to Wealth" by J.L. Collins
 
-Rating: ★★★★☆ (4/5)
+Rating: 4/5
 
 Review Date: June 24, 2023
 

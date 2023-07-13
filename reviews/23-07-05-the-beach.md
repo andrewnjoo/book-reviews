@@ -1,6 +1,6 @@
 Review: "The Beach" by Alex Garland
 
-Rating: ★★★★★ (4/5)
+Rating: 4/5
 
 Review Date: July 5, 2023
 
