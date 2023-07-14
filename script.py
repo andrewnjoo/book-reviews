@@ -35,7 +35,7 @@ for file_name in file_names:
     # Remove the ".md" extension from the file_name
     file_name_without_extension = os.path.splitext(file_name)[0]
     a_tag = soup.new_tag("a", href=f"./reviews/{file_name_without_extension}")
-    a_tag.string = f"{file_name[:8]} Review of {review_title} {rating_stars}"
+    a_tag.string = f"{file_name[:8]} {review_title} {rating_stars}"
 
     div_tag.append(a_tag)
     section.append(div_tag)
