@@ -1,4 +1,4 @@
-Review: "Simple Path to Wealth" by J.L. Collins
+Review: Simple Path to Wealth by J.L. Collins
 
 Rating: 4/5
 

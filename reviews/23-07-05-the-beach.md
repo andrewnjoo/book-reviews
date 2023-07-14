@@ -1,4 +1,4 @@
-Review: "The Beach" by Alex Garland
+Review: The Beach by Alex Garland
 
 Rating: 4/5
 
