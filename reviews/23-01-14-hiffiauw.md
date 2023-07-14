@@ -1,0 +1,31 @@
+Review: "How I Found Freedom in an Unfree World" by Harry Browne
+
+Rating: 5/5
+
+Review Date: January 14, 2023
+
+I’ve read this book before so this time I skim read it. I guess the part where I was reading again were all of the ‘identity’ traps in part 1.
+
+The book is divided into 3 parts:  part 1 talks about the traps we fall into, part 2 talks about how you can be free and part 3 is called a new life.
+
+traps include 
+
+1. identity, 
+2. intellectual, 
+3. emotional, 
+4. morality, 
+5. unselfishness, 
+6. group, 
+7. government, 
+8. despair, 
+9. rights, 
+10. utopia, 
+11. burning-issue, 
+12. previous-investment, 
+13. box, 
+14. certainty.
+
+part 2 includes how to find freedom from:
+
+1. the government
+2. social restrictions
