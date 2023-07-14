@@ -2,8 +2,6 @@ Review: Simple Path to Wealth by J.L. Collins
 
 Rating: 4/5
 
-Review Date: June 24, 2023
-
 Simple Path to Wealth is a book by JL Collins about how to reach financial independence. I personally enjoyed the book as it's relatively short (the paperback is 286 pages). In this review I'll cover the book and my reasons why I like it.
 
 ---

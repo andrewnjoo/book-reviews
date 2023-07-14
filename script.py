@@ -21,15 +21,21 @@ for file_name in file_names:
     review_title = ""
 
     with open(review_path) as review_file:
-        first_line = review_file.readline().strip()
-        if first_line.startswith("Review:"):
-            review_title = first_line[8:].strip()
+        lines = review_file.readlines()
+        for line in lines:
+            if line.startswith("Review:"):
+                review_title = line[8:].strip()
+            elif line.startswith("Rating:"):
+                rating = line.split(":")[1].strip()
+                rating_value = int(rating.split("/")[0])
+                rating_stars = "★" * rating_value + "☆" * (5 - rating_value)
+                break
 
     div_tag = soup.new_tag("div")
     # Remove the ".md" extension from the file_name
     file_name_without_extension = os.path.splitext(file_name)[0]
     a_tag = soup.new_tag("a", href=f"./reviews/{file_name_without_extension}")
-    a_tag.string = f"{file_name[:8]} Review of {review_title}"
+    a_tag.string = f"{file_name[:8]} Review of {review_title} {rating_stars}"
 
     div_tag.append(a_tag)
     section.append(div_tag)
