@@ -1,12 +1,10 @@
 Review: Alice's Adventures in Wonderland by Lewis Carroll
 
-Rating: 4/5
-
 Date: 1865
 
 Length: 70
 
-Difficulty: 2/5
+Rating: 4/5
 
 Alice's Adventures in Wonderland (AAIW) is a book by Lewis Carroll, a mathematics professor at Oxford.
 
