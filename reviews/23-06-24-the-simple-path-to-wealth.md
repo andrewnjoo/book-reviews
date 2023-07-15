@@ -130,8 +130,8 @@ The afterword includes some tips for JL's daughter like
 
 ---
 
-I also like this paragraph from the book
+I also like this paragraph from Chapter 24 'Tales of the South Pacific' of the book:
 
-Over the years I’ve come across any number of people embracing life on their own terms. They are intent on breaking the shackles of debt, consumerism and limiting mindsets, and living free. They are filled with ideas and courage.
+> Over the years I’ve come across any number of people embracing life on their own terms. They are intent on breaking the shackles of debt, consumerism and limiting mindsets, and living free. They are filled with ideas and courage.
 
 Overall, I really like this book and will rate it 4/5 ★★★★☆. It's a great book to learn more about financial education.
