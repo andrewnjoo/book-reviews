@@ -6,6 +6,8 @@ Date: 1865
 
 Length: 70
 
+Difficulty: 2/5
+
 Alice's Adventures in Wonderland (AAIW) is a book by Lewis Carroll, a mathematics professor at Oxford.
 
 In it, Alice follows a rabbit into a dream world where she meets various characters including a hookah smoking Caterpillar, the Cheshire Cat, the Mad Hatter, and the Queen of Hearts.

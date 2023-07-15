@@ -6,6 +6,8 @@ Date: 2016
 
 Length: 286
 
+Difficulty: 2/5
+
 Simple Path to Wealth is a book by JL Collins about how to reach financial independence. I personally enjoyed the book as it's relatively short (the paperback is 286 pages). In this review I'll cover the book and my reasons why I like it.
 
 ---
