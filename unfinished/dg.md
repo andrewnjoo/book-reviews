@@ -1,0 +1,4 @@
+interesting words:
+
+- enmity
+- panegyric
