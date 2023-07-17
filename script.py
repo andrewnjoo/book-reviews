@@ -1,5 +1,6 @@
 import os
 from bs4 import BeautifulSoup
+import math
 
 reviews_dir = "./reviews"
 html_file = "index.html"
@@ -19,6 +20,7 @@ file_names.sort(reverse=True)
 for file_name in file_names:
     review_path = os.path.join(reviews_dir, file_name)
     review_title = ""
+    word_count = 0
 
     with open(review_path) as review_file:
         lines = review_file.readlines()
@@ -31,11 +33,14 @@ for file_name in file_names:
                 rating_stars = "★" * rating_value + "☆" * (5 - rating_value)
                 break
 
+        word_count = sum(len(line.split()) for line in lines)
+        minutes_read = math.ceil(word_count / 240)  # Divide by 240 to get minutes, round up using math.ceil
+
     div_tag = soup.new_tag("div")
     # Remove the ".md" extension from the file_name
     file_name_without_extension = os.path.splitext(file_name)[0]
     a_tag = soup.new_tag("a", href=f"./reviews/{file_name_without_extension}")
-    a_tag.string = f"{file_name[:8]} {review_title} {rating_stars}"
+    a_tag.string = f"{file_name[:8]} {review_title} {rating_stars} ({minutes_read} minute read)"
 
     div_tag.append(a_tag)
     section.append(div_tag)
